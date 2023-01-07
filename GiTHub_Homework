@@ -1,0 +1,40 @@
+Hello, this the 1st gitHub homework...
+steps to fallow : 
+
+1) Create a GIT Repo  <<project2>>
+
+2) Add few files using the Browser drag and drop functionality 
+
+3) Using the GIT bash command prompt, clone the above git repo
+
+4)  go to <<project2>> directory 
+
+5)  create few files using echo or touch commands
+
+6)  perform git status
+
+7)  perform git add command
+
+8)  perform git push command
+
+9)  perform git status command
+
+10) Invite your team members as a collaborator  (by inviting them), ask them to accept the request
+
+11) have them clone your repo
+
+12) ask them to add file , then commit, push
+
+13) you do git pull
+
+14) now you do add file, commit, push
+
+15) ask them to do pull
+
+16) now create a new branch java
+
+17) switch to java branch 
+
+18) add file in java branch , commit and push 
+
+19) merge branch to master 
